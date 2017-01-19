@@ -16,8 +16,10 @@ permalink: /about/
 ## 개인 프로젝트
 * [Name a photo][1]
 	- 개발 기술 : Objective-c
+	![nameaphoto0](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/nameaphoto_0.PNG)    ![nameaphoto1](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/nameaphoto_1.PNG)	![nameaphoto2](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/nameaphoto_2.PNG)
 * [Je Diary][3]
 	- 개발 기술 : Objective-c
+	![JeDiary0](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/JeDiary_0.png)    ![JeDiary1](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/JeDiary_1.png)	![JeDiary2](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/JeDiary_2.png)
 * [Pickolor][4]
 	- 개발 기술 : Objective-c
 * [Marchen Puzzle][2]
