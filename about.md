@@ -15,9 +15,13 @@ permalink: /about/
 
 ## 개인 프로젝트
 * [Name a photo][1]
-* [Marchen Puzzle][2]
+	- 개발 기술 : Objective-c
 * [Je Diary][3]
+	- 개발 기술 : Objective-c
 * [Pickolor][4]
+	- 개발 기술 : Objective-c
+* [Marchen Puzzle][2]
+	- 개발 기술 : cocos2d-x, c++
 
 [1]: https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8 "Name a photo"
 [2]: https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8 "Marchen Puzzle"
@@ -60,3 +64,10 @@ permalink: /about/
 
 [5]: https://itunes.apple.com/kr/app/wizzap/id975125575?mt=8 "wizzap"
 [6]: https://itunes.apple.com/kr/app/yeohaengbagsa-hukuoka/id552870154?mt=8 "여행박사 후쿠오카편"
+
+## 아크로버스
+* 쿠키폰, 롤리팝1, KV230, M-polo, SU600, VX9600 - 개발 : 2010.1 - 2011.1
+* K1 - 개발 : 2009.5 ~ 2009.11
+* Santorini, Madive - 개발 : 2009.1 ~ 2009.4
+	- 사용 기술 : Flash script 2.0
+	- 피쳐폰에 탑재되는 메뉴 및 기타 어플리케이션 개발
