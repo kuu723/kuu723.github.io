@@ -5,8 +5,8 @@ permalink: /about/
 
 # 이력서
 * mail : seonmin723@gmail.com
-* github : https://github.com/kuu723
-* blog : http://kuu723.github.io
+* github : [https://github.com/kuu723](https://github.com/kuu723 "https://github.com/kuu723")
+* blog : [http://kuu723.github.io](http://kuu723.github.io "http://kuu723.github.io")
 
 ## 경력 (5년 10개월)
 * 바루소프트 : __2015.12 ~ 현재__
@@ -34,6 +34,7 @@ permalink: /about/
 [4]: https://itunes.apple.com/kr/app/pickolor/id1101625575?mt=8 "Pickolor"
 
 ## 회사 프로젝트
+
 ### 바루소프트
 * __[Wizzap][5]__ - 유지/보수 및 고도화 개발 : 2015.12 ~ 현재
 	- 사용 기술 : Objective-c
