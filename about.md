@@ -22,8 +22,11 @@ permalink: /about/
 	![JeDiary0](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/JeDiary_0.png)    ![JeDiary1](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/JeDiary_1.png)	![JeDiary2](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/JeDiary_2.png)
 * [Pickolor][4]
 	- 개발 기술 : Objective-c
+![pickolor0](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/picolor_0.jpeg)    ![pickolor1](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/picolor_1.jpeg)	![pickolor2](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/picolor_2.jpeg)
 * [Marchen Puzzle][2]
 	- 개발 기술 : cocos2d-x, c++
+![Marchen0](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/marchen_0.PNG)    ![Marchen1](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/marchen_1.PNG)	![Marchen2](https://raw.githubusercontent.com/kuu723/kuu723.github.io/master/images/about/hello/marchen_2.PNG)
+
 
 [1]: https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8 "Name a photo"
 [2]: https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8 "Marchen Puzzle"
